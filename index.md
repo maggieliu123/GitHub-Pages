@@ -4,7 +4,8 @@
 ## Introduction
 Hello! I am Maggie Liu, a third-year CS major and am minoring in business. In my college journey, I hope to make many **life-long** friends, **travel** abroad, and gain extensive **technical** working experience.
 
-![My Image](https://lh3.googleusercontent.com/IGbxr1H6JF4QK_NoTYj3WUquj7Q98_eUbe100J_7OCUrAu7hhHbprl0DteXB4AwhQIV8ayHiTDW61WHNoqcF7AD3nGVPfXemRZ6GQHPuVBIiPBCYaEru_CGcQJyB04swzypDontByX866bV11vRTdY5uSaFvW4NyMVqax8QZUqAH5TY1M8woSGel4ct9Xph33x39shpoEYI5erkgNtBJwUkF604SK-AUiZ5cmgx5-XJ661UuV424zfMpFpfIl7YElY9KcaY7Jxzg03F-ZRag7zcxQn8HlR9R8rRW6wW0kEneMugrJ9tjZ9RPH4LPWIS1SaUL8l_tQa9gYtRT7icvrxeI1M1aWDn7zhU2_97RA81KScrj6tXtip6Jp7YNDqo-521XyiWnIImjw-8B2uVFNQ3d65nqmVwBhDYB77_apT3KUulhA67t8LGXLgmybtADctFnblKXXfVqV7vSObeF0MXt3mJbsexpJ14iFtX8JxnSouVV6zRz_J9GFQkHOhMFjAMfOdgF00zBehUIRMlfpVQAzfJDPlkQ66AxecOptMOlZIDHe9DXtEiuIQglc0u5TFfPF2nRlbq5uCrfF9L-1_9aiwsW2tFBq4hK8shK1HiCLQdrR-PTsIyvQxdUb0DJ-B_V2oAEdrAK1cpxWcsggNnb70CHqsg_fEgmsBsnJ82uIxBHcyGowBXr8W93ozdHlNb2okVGxrDE1iSwMiL0tvKOqwF4GdM-6MIf3v5VD-rHk05Haw-zYkaSewnbDkzH4JYouyeXR3UeOoNjKcUyOgu_XyTHHJBHaVdJfKMQz4nk2k59nwf5ytWcGTLKrG7PyNdbeso=w469-h625-no?authuser=0)
+<!--- is this considered a relative link??-->
+![My Image](images/myImage.jpg)
 
 ## Get to Know Me
 ### Favorite Hobbies
@@ -34,8 +35,8 @@ This line resonates **so** deeply with my identity as a programmer, I cannot hel
 ### Dream Goals
 - Become a software engineer product manager
 - Make 6 figures
-  <!---is this considered a regular link to an image in the repo??-->
-- Buy my [dream home](images/dreamHouse.jpg) 
+  <!---is this considered a relative link to an image in the repo?? it's a regular link-->
+- Buy my [dream home](https://assets.architecturaldesigns.com/plan_assets/324992227/large/86053BW_1-nu_1568236260.jpg)
 - Travel through Europe 
 
 ### Goals for this year
