@@ -7,7 +7,6 @@
 ## Introduction
 Hello! I am Maggie Liu, a third-year CS major and am minoring in business. In my college journey, I hope to make many **life-long** friends, **travel** abroad, and gain extensive **technical** working experience.
 
-<!--- is this considered a relative link??-->
 ![My Image](images/myImage.jpg)
 
 ## Get to Know Me
@@ -33,12 +32,10 @@ This line resonates **so** deeply with my identity as a programmer, I cannot hel
 1. At times, I can be a little rigid on plans that I've made. 
 2. I can be easily intimidated by large, vague tasks (so programming assignments are a blast...). 
 
-<!---How to make section links??-->
 
 ### Dream Goals
 - Become a software engineer product manager
 - Make 6 figures
-  <!---is this considered a relative link to an image in the repo?? it's a regular link-->
 - Buy my [dream home](https://assets.architecturaldesigns.com/plan_assets/324992227/large/86053BW_1-nu_1568236260.jpg)
 - Travel through Europe 
 
