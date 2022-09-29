@@ -1,6 +1,9 @@
 # Maggie's User Page
 ## Table of Contents
 
+1. [Brief Introduction](#introduction)
+2. [Get to Know Me](#get-to-know-me)
+3. [Connect with Me](#connect-with-me)
 ## Introduction
 Hello! I am Maggie Liu, a third-year CS major and am minoring in business. In my college journey, I hope to make many **life-long** friends, **travel** abroad, and gain extensive **technical** working experience.
 
